@@ -1,0 +1,40 @@
+/* SignUp.css */
+.body {
+    background-color: #f0f0f0; /* Set a background color for the entire page */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; Make sure the container takes the full height of the viewport */
+    margin: 0; /* Remove default margin */
+  }
+  
+  .signup-form {
+    max-width: 400px; /* Set a maximum width for the form container */
+    padding: 20px; /* Add padding for better spacing */
+    border: 1px solid #ccc; /* Add a border for visual separation */
+    border-radius: 8px; /* Optional: Add border-radius for rounded corners */
+    background-color: #fff; /* Set a background color for the form container */
+  }
+  
+  h2 {
+    color: #333; /* Set text color */
+  }
+  
+  /* Style the input fields, buttons, or any other form elements as needed */
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border-radius: 20px; 
+  }
+  
+  /* Add more styles as needed for additional information or links */
+  .additional-info {
+    margin-top: 20px;
+    text-align: center;
+    color: #777;
+  }
+  
+  /* You can add more styles based on your design requirements */
+  

@@ -1,0 +1,42 @@
+/* Your CSS file or style block */
+header{
+  margin: 0;
+  padding: 0;
+  border: 0;
+ 
+  
+}
+nav {
+  margin-top: 0;
+    background-color: #333; /* Set the background color of the navigation bar */
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    display:block;
+    font-family:arial;
+    text-transform:uppercase;
+    font-weight:bold;
+    margin:0;
+    padding:10px 19px 10px;
+    text-decoration:none;
+    
+  }

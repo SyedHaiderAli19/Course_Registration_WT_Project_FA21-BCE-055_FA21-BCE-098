@@ -1,0 +1,21 @@
+/* Home.css */
+.home-container {
+    background-color: rgb(86, 202, 40);
+    padding: 20px;
+  }
+  
+  .welcome-section {
+    background-color: DodgerBlue;
+    color: white;
+    padding: 10px;
+    font-family: 'Sans-Serif', sans-serif;
+  }
+  .announcements-section{
+    background-color: DodgerBlue;
+    color: white;
+    padding: 10px;
+    font-family: 'Sans-Serif', sans-serif;
+  }
+  .announcements-section h3{
+    color: black;
+  }
